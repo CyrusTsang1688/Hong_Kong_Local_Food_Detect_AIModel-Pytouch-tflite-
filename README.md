@@ -1,6 +1,6 @@
 # Hong_Kong_Local_Food_Detect_AIModel-Pytouch-tflite-
-Hong Kong Local Food Detect AI Model(Pytouch, tflite)
-an AI Object Detection That can detect 15 Type of Hong Kong Local Food.
+Hong Kong Local Food Detect AI Model(Pytouch, tflite)<br>
+An AI Object Detection That can detect 15 Type of Hong Kong Local Food.
 
  1. 蛋撻 Egg tart
  2. 碗仔翅 Imitation Shark Fin Soup 
