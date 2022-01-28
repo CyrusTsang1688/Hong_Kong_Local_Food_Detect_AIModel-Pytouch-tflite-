@@ -1,6 +1,6 @@
 # Hong_Kong_Local_Food_Detect_AIModel-Pytouch-tflite-
 Hong Kong Local Food Detect AI Model(Pytouch, tflite)<br>
-An AI Object Detection That can detect 15 Type of Hong Kong Local Food.
+An AI Object Detection That can detect 15 Type of Hong Kong Local Food, Train with YoloV5.
 
  1. 蛋撻 Egg tart
  2. 碗仔翅 Imitation Shark Fin Soup 
@@ -17,6 +17,8 @@ An AI Object Detection That can detect 15 Type of Hong Kong Local Food.
 13. 紅豆冰 Red Bean Fleecy  
 14. 炒飯 Fried rice 
 15. 沙爹牛肉麵 Satay beef noodle 
+
+
 
 ![image](https://user-images.githubusercontent.com/73983294/147459739-968d2de6-948c-4fbb-a79f-60267207c0df.png )<br>
 ![image](https://user-images.githubusercontent.com/73983294/147459102-91da1bc7-1d98-4980-a028-f8249caac658.png)<br>
